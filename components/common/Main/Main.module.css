@@ -1,0 +1,17 @@
+.main {
+  min-height: calc(100vh - 65px);
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1100px 1fr;
+}
+
+@media (max-width: 1050px) {
+  .main {
+    grid-template-columns: 10px 1fr 10px;
+  }
+}
+
+.content {
+  grid-column: 2/3;
+  grid-row: 1/-1;
+}

@@ -1,0 +1,46 @@
+{
+  "home": {
+    "pageName": "اصلي صفحه",
+    "news": "اخبار",
+    "announcements": "خبرتیاوې",
+    "statement": {
+      "statement": "بیانیه",
+      "minister": "وزیر"
+    },
+    "newsSection": {
+      "latestNewsAndUpdates": "تازه خبرونه",
+      "read": "لوست",
+      "minute": "دقیقې",
+      "news": "خبرونه"
+    }
+  },
+  "newsPage": {
+    "pageName": "خبرونه",
+    "pageDescription": "د وزارت لخوا خپاره شوي خبرونه",
+    "searchNews": "د خبرونو لټول"
+  },
+  "newsList": {
+    "read": "لوست",
+    "minute": "دقیقې",
+    "news": "خبرونه",
+    "search": "لټول",
+    "noNewsFound": "کوم خبر ونه موندل شو",
+    "showingResultsFor": "نتیجه د"
+  },
+  "notFound": {
+    "pageNotFound": "دا پاڼه ونه موندل شو",
+    "goBackToHomepage": "اصلي پاڼه ته بیرته لاړ شه"
+  },
+  "announcementPage": {
+    "pageName": "خبرتیاوې",
+    "pageDescription": "د وزارت لخوا خپاره شوي خبرتیاوې",
+    "announcements": "خبرتیاوې",
+    "latestAnnouncements": "وروستۍ خبرتیاوې چي د وزارت لخوا خپاره شوي",
+    "noAnnouncementFound": "هیڅ خبرتیاو ونه موندل شو"
+  },
+  "aboutText": {
+    "lastUpdatedOn": "وروستۍ ځل تازه شوی",
+    "read": "لوست",
+    "minute": "دقیقې"
+  }
+}

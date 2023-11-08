@@ -1,0 +1,15 @@
+/* animations.module.css */
+@keyframes falling {
+  0% {
+    transform: scaleY(0%);
+    opacity: 0;
+  }
+  100% {
+    transform: scaleY(100%);
+    opacity: 1;
+  }
+}
+
+.falling {
+  animation: falling 0.2s ease-in forwards;
+}

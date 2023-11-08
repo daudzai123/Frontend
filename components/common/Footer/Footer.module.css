@@ -1,0 +1,26 @@
+.footer {
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1200px 1fr;
+}
+
+@media (max-width: 1150px) {
+  .footer {
+    grid-template-columns: 0 1fr 0;
+  }
+}
+
+.footerContent {
+  grid-column: 2/3;
+  grid-row: 1/-1;
+}
+
+.panel {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-in-out;
+}
+
+.panel.show {
+  max-height: 200px;
+}
